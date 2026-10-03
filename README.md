@@ -5,7 +5,7 @@ It has all what I do
 <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/38b46993-2b31-4079-b2ed-19c38b1c14aa" />
 
 ## Description
-I built for Hack Club For PIXL.
+I built for Hack Club 
 It has all what I do.
 
 ## Built With
